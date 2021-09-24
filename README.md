@@ -12,6 +12,6 @@ Thanks for visiting!
     <img title="Noah's LeetCode Stats" alt="Noah's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=noahjpark&style=dark&font=Garamond&extension=activity" />
  </a>
   <a href=""https://github-readme-stats.vercel.app/api?username=noahjpark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"">
-    <img title="JacobLinCool's Github Stats" alt="JacobLinCool's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JacobLinCool&show_icons=true&count_private=true&hide=stars&include_all_commits=false&custom_title=GitHub%20Stats" />
+    <img title="Noah's Github Stats" alt="Noah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JacobLinCool&show_icons=true&count_private=true&hide=stars&include_all_commits=false&custom_title=GitHub%20Stats" />
   </a>
  </p>
