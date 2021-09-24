@@ -22,7 +22,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahjpark&label=Profile%20views&color=0e75b6&style=flat" alt="noahjpark" /> </p>
 
-- Check out my portfolio: [https://noahjpark.github.io/portfolio](https://noahjpark.github.io/portfolio)
+- Check out my [portfolio](https://noahjpark.github.io/portfolio)
 
 <h3 align="left">Links:</h3>
 <p align="left">
