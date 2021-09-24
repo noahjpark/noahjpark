@@ -22,6 +22,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahjpark&label=Profile%20views&color=0e75b6&style=flat" alt="noahjpark" /> </p>
 
+- Check out my portfolio: [https://noahjpark.github.io/portfolio](https://noahjpark.github.io/portfolio)
+
 <h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/noahjpark" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/noahjpark" height="30" width="40" /></a>
