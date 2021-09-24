@@ -18,9 +18,9 @@
 
 <p align=center>
  <a href="https://leetcode.com/noahjpark">
-  <img title="Noah's LeetCode Stats" alt="Noah's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=noahjpark&style=dark&font=Garamond&extension=activity" />
+  <img width=512 title="Noah's LeetCode Stats" alt="Noah's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=noahjpark&style=dark&font=Garamond&extension=activity" />
  </a>
  <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahjpark&show_icons=true&locale=en&layout=compact" alt="noahjpark" />
+  <img width=512 src="https://github-readme-stats.vercel.app/api/top-langs?username=noahjpark&show_icons=true&locale=en&layout=compact" alt="noahjpark" />
  </a>
 </p>
