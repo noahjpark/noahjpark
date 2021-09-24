@@ -23,7 +23,4 @@
  <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahjpark&show_icons=true&locale=en&layout=compact" alt="noahjpark" />
  </a>
- <a>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahjpark&show_icons=true&locale=en" alt="noahjpark" />
- </a>
 </p>
