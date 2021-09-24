@@ -5,4 +5,4 @@ Thanks for visiting!
 [LeetCode](https://leetcode.com/noahjpark/) //
 [Personal Website](https://noahjpark.github.io/portfolio/)
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=noahjpark)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=noahjpark&style=dark)
