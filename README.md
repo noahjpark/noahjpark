@@ -11,6 +11,5 @@ Thanks for visiting!
  <a href="https://leetcode.com/noahjpark">
     <img title="Noah's LeetCode Stats" alt="Noah's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=noahjpark&style=dark&font=Garamond&extension=activity" />
  </a>
- <div />
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img align=center height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  </p>
